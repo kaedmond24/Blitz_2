@@ -23,3 +23,7 @@ Blitz 2 uses Apache JMeter to flood the python URL Shortening application with 1
 3. What was the value of the test results before and after.
 
    - Prior to QA testing, the previous server was able to easily handle the server load without any substantial web requests being serviced. However, load testing the server uncovered some major flaws in usability of the web server when other processes on the server had increased CPU utilization. Results for the updated QA testing using the new instance build is TBD.
+
+# System Diagram
+
+CI/CD Pipeline Architecture [Link](Blitz_2_Diagram.png)
